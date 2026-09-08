@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maxrebo34-hash.github.io/gem-drawer//sitemap.xml
+Sitemap: https://maxrebo34-hash.github.io/gem-drawer/sitemap.xml
